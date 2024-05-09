@@ -39,3 +39,5 @@ A data structure is a way of organizing and storing data in a computer so that i
 ## List 📝
 
 In python List are ordered collections of data just like arrays in other programming languages. The implementation of Python List is similar to Vectors in C++ or ArrayList in JAVA.
+![List-Slicing](https://github.com/mahede182/data_structure_Python/assets/53116487/e3179530-0629-418d-945c-4a080c2fcade)
+
